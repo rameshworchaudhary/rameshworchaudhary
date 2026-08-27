@@ -119,7 +119,7 @@ I work across **Artificial Intelligence, Machine Learning, Full-Stack Developmen
 
 <div align="center">
 
-### 🧠 Exam Mind AI
+### 🧠 PadhaiHub
 
 **AI-powered examination and study platform**
 
@@ -129,11 +129,11 @@ I work across **Artificial Intelligence, Machine Learning, Full-Stack Developmen
 
 <br/><br/>
 
-### 🛍️ MeroPasal
+### 🛍️ Nexshop 
 
 **Full-stack e-commerce platform focused on the Nepalese market**
 
-<a href="https://github.com/rameshworchaudhary/MeroPasal">
+<a href="https://www.nexshoponline.com.np/">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-ffffff?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
